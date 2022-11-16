@@ -1,0 +1,53 @@
+body{
+	font-family:verdana;
+	
+	background-image:url('https://media.istockphoto.com/id/1323143709/vector/background-curve-water-color-green.jpg?s=612x612&w=0&k=20&c=VriUkXz_liT0O7ZQ7r7GEwBKgmK-1ib-WTQP0Daxzcs=');
+	background-repeat:no-repeat;
+	background-size:1200px;
+	background-attachment:fixed;
+}
+
+.first
+{
+		color:darkgrey;
+		font-family:comic sans ms;
+		text-indent:80px;
+		font-weight:900;
+		border:5px double red;
+		padding:50px;
+		border-radius:50px;
+}
+h1{
+	color:red;
+		font-family:comic sans ms;
+		letter-spacing:2px;
+		font-weight:900;
+		text-shadow:1px 2px grey;
+		text-transform:uppercase;
+		margin-left:280px;
+		margin-top:-80px;
+}
+.img1{
+	margin-left:150px;
+}
+.img2{
+	
+	margin-left:810px;
+	margin-top:-110px;
+}
+h1::first-letter{
+	text-transform:uppercase;
+	color:blue;
+	font-size:60px;
+}
+
+
+
+
+
+
+
+
+
+
+
